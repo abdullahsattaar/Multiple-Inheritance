@@ -166,14 +166,7 @@ void main()
 {
 	Undergraduate ug1("ted", "thompson", 22, 3.91, "oop lab");
 	Faculty f1("richard", "karp", 45, 2, 420);
-	   
-	    /*output for exercise 3:
-	    person() called
-		student() called
-		undergraduate() called
-		person() called
-		faculty() called*/
-
+	
 	Student s("Ted", "Thompson", 22, 3.91);
 	Faculty f("Richard", "Karp", 45, 2, 420);
 	//here the number of courses is 2
